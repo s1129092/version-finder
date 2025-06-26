@@ -6,7 +6,7 @@ authors = [
     {name = "skip"}
 ]
 readme = "README.md"
-requires-python = ">=3.13"
+requires-python = ">=3.8"
 dependencies = [
 ]
 
