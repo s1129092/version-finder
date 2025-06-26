@@ -1,7 +1,7 @@
 [project]
-name = "regex-builder"
-version = "0.0.0"
-description = "Regex builder in simple English"
+name = "version-finder"
+version = "0.0.1"
+description = "Find version within a url such as 'v1' or '1.1.1'"
 authors = [
     {name = "skip"}
 ]
