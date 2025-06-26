@@ -1,5 +1,5 @@
 [project]
-name = "version-finder"
+name = "url-version-finder"
 version = "0.0.1"
 description = "Find version within a url such as 'v1' or '1.1.1'"
 authors = [
